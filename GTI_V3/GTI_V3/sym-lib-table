@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "ACS722LLCTR-05AB-T")(type "Legacy")(uri "C:/Users/James/Documents/ECAD models/ACS722LLCTR-05AB-T/ACS722LLCTR-05AB-T.lib")(options "")(descr ""))
+  (lib (name "GTI_V3-rescue")(type "Legacy")(uri "${KIPRJMOD}/GTI_V3-rescue.lib")(options "")(descr ""))
+)

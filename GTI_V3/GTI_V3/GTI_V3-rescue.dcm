@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DGD2110S16-13-SamacSys_Parts
+F https://componentsearchengine.com/Datasheets/1/DGD2110S16-13.pdf
+$ENDCMP
+#
+$CMP ES1J-ES1J
+F http://www.onsemi.com/PowerSolutions/product.do?id=ES1J
+$ENDCMP
+#
+#End Doc Library
